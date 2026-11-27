@@ -160,31 +160,31 @@ Hotkey list:
 
 | --- | --- |
 
-| Option | i |
+| Option | ⌥ |
 
 | Control | ^ |
 
 | Command | ⌘ |
 
-| Shift | al | 
+| Shift | ⇧ | 
 
-| Caps Lock | " | 
+| Caps Lock | ⇪ | 
 
-| Tab |  * I | 
+| Tab |  ⇥ | 
 
-| Esc | 8 | 
+| Esc | ⎋ | 
 
-| Power | 9 |
+| Power | ⌽ |
 
-| Return | ~ |
+| Return | ↩ |
 
-| Delete | * |
+| Delete | ⌫ |
 
-| Up | + |
+| Up | ↑ |
 
-| Down | 1 |
+| Down | ↓ |
 
-| Left | - |
+| Left | ← |
 
 | Right | → |
 
